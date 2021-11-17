@@ -1,9 +1,9 @@
 admins: []
 forwards:
-- source: tg_cf
-  dest:
+- source: https://t.me/joinchat/2mDXUO6PU0Q5OGUx
+  dest: -1001730201699
   - me
-  offset: 9
+  offset: 29393
   end: 0
 show_forwarded_from: false
 live:
